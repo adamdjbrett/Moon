@@ -1,7 +1,7 @@
 # Site
 title:              Adam DJ Brett
 bio:                'Adam DJ Brett is a PhD Candidate in Religion at Syracuse University where he studies American Religion.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Adam DJ Brett is a PhD Candidate in Religion at Syracuse University where he studies American Religion."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -29,27 +29,27 @@ sass:
 #disqus_shortname:   username
 
 # Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
+#if you don't have any of social below, comment the line.
+google:
+    plus:            adamdjbrett
+    analytics:       UA-20426060-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            adjbx
+facebook:           adamdjbrett
+github:             adamdjbrett
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          adjbx
 #lastfm:            username
-#tumblr:            username
+tumblr:             adjbx
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
