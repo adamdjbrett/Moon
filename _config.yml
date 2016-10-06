@@ -37,10 +37,10 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              adam@adamdjbrett.com
 twitter:            adjbx
 facebook:           adamdjbrett
-github:             adamdjbrett
+#github:             adamdjbrett
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -49,7 +49,7 @@ instagram:          adjbx
 tumblr:             adjbx
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
