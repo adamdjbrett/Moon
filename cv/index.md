@@ -11,9 +11,9 @@ PhD Candidate in Religion
 <div id="webaddress">
 <a href="mailto:adam@adamdjbrett.com">adam@adamdjbrett.com</a>
 |
-<i class="fa fa-var-github-square"></i> <a href="http://github.com/adamdjbrett">adamdjbrett</a>
+<i class="fa fa-github"></i> <a href="http://github.com/adamdjbrett">adamdjbrett</a>
 |
-<i class="fa fa-var-twitter-square"></i> <a href="http://twitter.com/adjbx">adjbx</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/adjbx">adjbx</a>
 </div>
 
 
