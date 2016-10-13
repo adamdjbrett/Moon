@@ -12,16 +12,13 @@ He is a recent graduate from Brite Dvinity School at Texas Christian University.
 Currently he is the social media coordinator for NABPR and the webmaster for the department of religion. 
 
 ## Areas of interest
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* American Religion/American Religious History
+* Critical Theories of Religion
+* Fundamentalism
+* Gender and Sexuality Studies
+* Religion, Media, and Technology
+* Graphic Novels
+* Science-fiction/Speculative-Fiction
 
 ## Preview
 
