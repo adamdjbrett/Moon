@@ -8,7 +8,7 @@ logo:               'assets/img/adjb-cameo2.png'
 background:         'assets/img/2016-SyracuseU-HallofLanguages-SnowandVines.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://adamdjbrett.github.io
+url:                http://adamdjbrett.com
 
 # Jekyll
 permalink:          /:title/
@@ -39,7 +39,7 @@ google:
 #bing-verify:
 email:              adam@adamdjbrett.com
 twitter:            adjbx
-facebook:           adamdjbrett
+#facebook:          username
 github:             adamdjbrett
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
