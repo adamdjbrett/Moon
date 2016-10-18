@@ -1,4 +1,3 @@
-<script type="application/ld+json">
 {
 	"@context": "http://schema.org",
 	"@type": "Person",
@@ -356,4 +355,3 @@
 		"url": "http://religion.syr.edu"
 	}
 }
-</script>
