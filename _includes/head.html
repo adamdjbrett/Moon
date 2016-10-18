@@ -21,6 +21,7 @@
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="fb:admins" content="adamdjbrett"/>
+    <meta property="article:author" content="https://www.facebook.com/adamdjbrett" />
     <meta property="fb:app_id" content="138858296188819"/>
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:image" content="{{ site.url }}/assets/img/open-graph-logo.png" property="og:image:width" content="200" property="og:image:height" content="200"/>
