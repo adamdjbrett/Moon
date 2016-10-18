@@ -19,8 +19,8 @@
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    <meta property="fb:admins" content="adamdjbrett"/>
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <meta property="fb:admins" content="adamdjbrett"/>
     <meta property="fb:app_id" content="138858296188819"/>
     <meta property="og:site_name" content="{{ site.title }}">
 <!-- <meta property="og:image" content="{{ site.url }}/assets/img/open-graph-logo.png"/> -->
@@ -385,6 +385,24 @@
 		"url": "http://religion.syr.edu"
 	}
 }
+</script>
+<!-- Facebook SDK for JavaScript -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '138858296188819',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 </script>
     {% if site.google.verify %}
     <!-- Webmaster Tools verfication -->
