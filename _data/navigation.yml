@@ -2,3 +2,6 @@
 
 - title: Projects
   url: /projects/
+
+- title: CV
+  redirects_to: "http://cv.adamdjbrett.com"
