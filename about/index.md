@@ -28,6 +28,7 @@ Currently he is the social media coordinator for [NABPR: National Association of
 * Religion and Science Fiction (REL320)
 * Introduction to the Study of Religion (REL120)
 
+
 {% capture images %}
 http://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 {% endcapture %}
