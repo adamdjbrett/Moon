@@ -1,0 +1,21 @@
+/* TEAM */
+	Author: Adam DJ Brett
+	Contact: adam [at] adamdjbrett.com
+	Twitter: @adjbx
+	Web: Adamdjbrett.com | adamdj.tel
+	From: Syracuse University, Syracuse, NY
+
+
+
+/* THANKS */
+
+	Theme: Taylan Tatlı
+	Github: @TaylanTatli
+	Web: http://taylantatli.me/Moon/
+	From: Turkey
+
+/* SITE */
+	Last update: 2017/03/07
+	Language: English
+	Doctype:HTML5/CSS3
+	IDE: Sublime Text, TextWrangler, Github, Ruby, Ruby Gem, Jekyll
