@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Posters and Flyers"
-date:   2016-10-26
+date:   2017-04-06
 excerpt: "Posters and flyers designed by Adam DJ Brett for conferences, courses, and lectures."
 project: true
 feature: /assets/img/posters/2014-REL320-religion-scifi-preview.jpg
@@ -35,6 +35,11 @@ http://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-
 http://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
 http://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
 http://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
+http://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
+http://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
+http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-01.jpg
+http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-02.jpg
+
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
 
@@ -65,3 +70,8 @@ http://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
     - Keynote: Pamela Klassen 
     - Social media image for Encountering the Unexpected: Glitches, (Dis)placements, & Marginalia
     - Social media alternate image
+* 2017 careers in industry for STEM Graduate Students
+* 2017 Norma Slepecky Memorial Lecture for Women in Science and Engineering (SU WiSE)
+* 2017 Handbill for [_The Place of Religion in Film_](https://twitter.com/search?q=%23religioninfilm&src=typd)
+http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-01.jpg
+http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-02.jpg
