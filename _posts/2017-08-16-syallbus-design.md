@@ -13,8 +13,9 @@ comments: false
 ---
 <meta property="article:author" content="https://www.facebook.com/adamdjbrett" />
 
-# Syracuse University Teaching Assistant Orientation Syllabus Design Workshop
-Small Group &#x23; 2
+# Syracuse University Teaching Assistant Orientation
+# Syllabus Design Workshop
+Small Group &#x23;2
 August 16, 2017
 
 ## Syllabus Recommendations
