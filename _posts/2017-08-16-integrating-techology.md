@@ -13,11 +13,11 @@ comments: false
 ---
 <meta property="article:author" content="https://www.facebook.com/adamdjbrett" />
 
-[Google Apps Presentation slides](https://goo.gl/vwqW4A)
-
 # Integrating Technology in the Classroom
- by Adam DJ Brett & Caleb McWhorter
+ by **Adam DJ Brett & Caleb McWhorter**
  August 16, 2017
+
+[Google Apps Presentation slides](https://goo.gl/vwqW4A)
 
 ## Main Points
 * Student Engagement
