@@ -14,8 +14,8 @@ comments: false
 <meta property="article:author" content="https://www.facebook.com/adamdjbrett" />
 
 # Integrating Technology in the Classroom
- by **Adam DJ Brett & Caleb McWhorter**
- August 16, 2017
+by **Adam DJ Brett & Caleb McWhorter**
+August 16, 2017
 
 [Google Apps Presentation slides](https://goo.gl/vwqW4A)
 
