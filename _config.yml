@@ -4,8 +4,8 @@ bio:                'Adam DJ Brett is a PhD Candidate in Religion at Syracuse Un
 description:        "I am a PhD Candidate in Religion at Syracuse University. where I study American Religion."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/background.jpg'
+logo:               'https://adamdjbrett.com/assets/img/logo.png'
+background:         'https://adamdjbrett.com/assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://adamdjbrett.com
