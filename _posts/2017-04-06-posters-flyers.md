@@ -15,7 +15,7 @@ comments: false
 ---
 
 # Posters and flyers
-These are posters and flyers that I have designed for conferences, coures and lectures.
+These are posters and flyers that I have designed for conferences, courses and lectures.
 
 {% capture images %}
 https://adamdjbrett.com/assets/img/posters/2009-Diversity-and-Social-Justice-Lecture-by-Dr-Lester-Ruiz-of-ATS-Jan-20-Rev-1.jpg
@@ -39,12 +39,10 @@ https://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Gra
 https://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
 https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
 https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg
-https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-tix.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-scrimmage-update.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
 https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
-
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
 
@@ -77,6 +75,6 @@ https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
     - Social media alternate image
 * 2017 careers in industry for STEM Graduate Students
 * 2017 Norma Slepecky Memorial Lecture for Women in Science and Engineering (SU WiSE)
-* 2017 Handbill for [_The Place of Religion in Film_](https://twitter.com/search?q=%23religioninfilm&src=typd) [Handbill front](https://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-01.jpg) [Handbill back](http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-02.jpg)
+* 2017 Handbill for [_The Place of Religion in Film_](https://twitter.com/search?q=%23religioninfilm&src=typd) [Handbill front](https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg) [Handbill back](http://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg)
 * 2017 [Why Study Religion Poster](https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png)
 * 2017 Promotional images for the Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend hosted by [Indigenous Values Initiative](http://indigenousvalues.org), Lacrosse AllStars, Nike N7, & Onondaga Nation.
