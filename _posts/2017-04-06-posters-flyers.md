@@ -35,6 +35,7 @@ https://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2
 https://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
 https://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
 https://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
+https://adamdjbrett.com/assets/img/posters/2016-BKG_FB2PXD_797x295_castle.png
 https://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
 https://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
 https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
@@ -43,6 +44,7 @@ https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-tix.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-scrimmage-update.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
 https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
+https://adamdjbrett.com/assets/img/posters/2017-why-study-religion-open-house.jpg
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
 
@@ -76,5 +78,6 @@ https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
 * 2017 careers in industry for STEM Graduate Students
 * 2017 Norma Slepecky Memorial Lecture for Women in Science and Engineering (SU WiSE)
 * 2017 Handbill for [_The Place of Religion in Film_](https://twitter.com/search?q=%23religioninfilm&src=typd) [Handbill front](https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg) [Handbill back](http://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg)
-* 2017 [Why Study Religion Poster](https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png)
+* 2017 [Why Study Religion Poster, High Resolution](https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion-HQ.png)
+  - Open House Facebook Cover Photos
 * 2017 Promotional images for the Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend hosted by [Indigenous Values Initiative](http://indigenousvalues.org), Lacrosse AllStars, Nike N7, & Onondaga Nation.
