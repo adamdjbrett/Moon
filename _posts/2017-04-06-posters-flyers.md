@@ -32,6 +32,7 @@ https://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
 https://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 https://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
 https://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2-2.jpg
+https://adamdjbrett.com/assets/img/2015-how-jewish-is-jewish-studies.png
 https://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
 https://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
 https://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
