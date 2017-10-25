@@ -25,9 +25,12 @@ https://adamdjbrett.com/assets/img/posters/2009-Struggling-for-Justice-Between-B
 https://adamdjbrett.com/assets/img/posters/2010-Helen-Prejean-CSJ-Flyer.jpg
 https://adamdjbrett.com/assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
 https://adamdjbrett.com/assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
+https://adamdjbrett.com/assets/img/posters/2011-WOCATI-Johannesburg-Consult.png
+https://adamdjbrett.com/assets/img/posters/2012-new-student-orientation-flyer.png
 https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
 https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
 https://adamdjbrett.com/assets/img/posters/2013-What-the-Foucault-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2013-WOCAIT-Book-cover-image-rev2.jpg
 https://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
 https://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 https://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
