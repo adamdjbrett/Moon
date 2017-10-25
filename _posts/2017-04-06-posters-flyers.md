@@ -6,7 +6,7 @@ excerpt: "Posters and flyers designed by Adam DJ Brett for conferences, courses,
 project: true
 feature: /assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 tag:
-- posters 
+- posters
 - flyers
 - conferences
 - courses
@@ -18,27 +18,32 @@ comments: false
 These are posters and flyers that I have designed for conferences, coures and lectures.
 
 {% capture images %}
-http://adamdjbrett.com/assets/img/posters/2009-Diversity-and-Social-Justice-Lecture-by-Dr-Lester-Ruiz-of-ATS-Jan-20-Rev-1.jpg
-http://adamdjbrett.com/assets/img/posters/2009-Dr-Lester-Ruiz-ATS-Guest-lecture-Rev-1.jpg
-http://adamdjbrett.com/assets/img/posters/2009-Harry-Knox.jpg
-http://adamdjbrett.com/assets/img/posters/2009-Struggling-for-Justice-Between-Betwixt-march-11-2009.jpg
-http://adamdjbrett.com/assets/img/posters/2010-Helen-Prejean-CSJ-Flyer.jpg
-http://adamdjbrett.com/assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
-http://adamdjbrett.com/assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
-http://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
-http://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
-http://adamdjbrett.com/assets/img/posters/2013-What-the-Foucault-Rev-1.jpg
-http://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
-http://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
-http://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2-2.jpg
-http://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
-http://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
-http://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
-http://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
-http://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
-http://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
-http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-01.jpg
-http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-digital-02.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Diversity-and-Social-Justice-Lecture-by-Dr-Lester-Ruiz-of-ATS-Jan-20-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Dr-Lester-Ruiz-ATS-Guest-lecture-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Harry-Knox.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Struggling-for-Justice-Between-Betwixt-march-11-2009.jpg
+https://adamdjbrett.com/assets/img/posters/2010-Helen-Prejean-CSJ-Flyer.jpg
+https://adamdjbrett.com/assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
+https://adamdjbrett.com/assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
+https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
+https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
+https://adamdjbrett.com/assets/img/posters/2013-What-the-Foucault-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
+https://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
+https://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
+https://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2-2.jpg
+https://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
+https://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
+https://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
+https://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
+https://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
+https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
+https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg
+https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg
+https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-tix.png
+https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-scrimmage-update.png
+https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
+https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
 
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
@@ -67,7 +72,7 @@ http://adamdjbrett.com/assets/img/posters/the-place-of-religion--portrait-flyer-
 * 2015 _ReligionInterruptus_: The Affects of Sex, Politics, and Bodies: Department of Religion at Syracuse University Graduate Student Conference [religionconference.syr.edu](http://religionconference.syr.edu)
     - Keynote: Dr. Lynn Huffer (Emory University) “Strange Eros”
 * 2016 Encountering the Unexpected: Glitches, (Dis)placements, & Marginalia, Syracuse University, Religion Graduate Conference, March 25-26, 2016  [religionconference.syr.edu](http://religionconference.syr.edu)
-    - Keynote: Pamela Klassen 
+    - Keynote: Pamela Klassen
     - Social media image for Encountering the Unexpected: Glitches, (Dis)placements, & Marginalia
     - Social media alternate image
 * 2017 careers in industry for STEM Graduate Students
