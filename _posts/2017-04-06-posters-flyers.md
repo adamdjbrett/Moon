@@ -49,6 +49,7 @@ https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-scrimmage-update.pn
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
 https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
 https://adamdjbrett.com/assets/img/posters/2017-why-study-religion-open-house.jpg
+https://adamdjbrett.com/assets/img/posters/2017-Syracuse-AAR-SBL-invitation-min.png
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
 
@@ -85,3 +86,4 @@ https://adamdjbrett.com/assets/img/posters/2017-why-study-religion-open-house.jp
 * 2017 [Why Study Religion Poster, High Resolution](https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion-HQ.png)
   - Open House Facebook Cover Photos
 * 2017 Promotional images for the Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend hosted by [Indigenous Values Initiative](http://indigenousvalues.org), Lacrosse AllStars, Nike N7, & Onondaga Nation.
+* 2017 Invitation to the Syracuse University Department of Religion Reception at the American Academy of Religion/Society of Biblical Literature meeting in Boston.
