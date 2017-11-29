@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CFP: Flourish and Decay | Adam DJ Brett"
-date:   2017-08-16
+date:   2017-11-17
 excerpt: "The Religion Graduate Organization at Syracuse University announces the 2018 Graduate Student Conference Flourish and Decay: Exploring Religion in Process."
 feature: /assets/img/flourish-and-decay-header-main.png
 tag:
