@@ -52,6 +52,7 @@ Please submit a short abstract (350 words for papers; 500 words for panels) and 
 
 #### **Download Promotional Flyers**
 
-[Print Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-print.pdf) |  [Web Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-web.pdf)
+* [Print Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-print.pdf)
+* [Web Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-web.pdf)
 
 [source](http://religionconference.syr.edu)
