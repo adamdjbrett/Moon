@@ -47,10 +47,10 @@ Papers and panels might engage the following (but not limited to) themes of:
 *   Death, funerary and burial rites
 *   Temporalities, histories
 
-Please submit a short abstract (350 words for papers; 500 words for panels) and a CV in PDF format to: SUReligionConference@gmail.com by **January 20, 2018.  
-**[religionconference.syr.edu](http://religionconference.syr.edu/)
+Please submit a short abstract (350 words for papers; 500 words for panels) and a CV in PDF format to: SUReligionConference@gmail.com by **January 20, 2018.**  
+**[religionconference.syr.edu](http://religionconference.syr.edu/)**
 
-#### **Download Promotional Flyers**
+#### Download Promotional Flyers
 
 * [Print Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-print.pdf)
 * [Web Flyer](http://religionconference.syr.edu/wp-content/uploads/2017/11/CFPflyer-web.pdf)
