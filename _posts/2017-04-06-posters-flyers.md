@@ -18,38 +18,38 @@ comments: false
 These are posters and flyers that I have designed for conferences, courses and lectures.
 
 {% capture images %}
-https://adamdjbrett.com/assets/img/posters/2009-Diversity-and-Social-Justice-Lecture-by-Dr-Lester-Ruiz-of-ATS-Jan-20-Rev-1.jpg
-https://adamdjbrett.com/assets/img/posters/2009-Dr-Lester-Ruiz-ATS-Guest-lecture-Rev-1.jpg
-https://adamdjbrett.com/assets/img/posters/2009-Harry-Knox.jpg
-https://adamdjbrett.com/assets/img/posters/2009-Struggling-for-Justice-Between-Betwixt-march-11-2009.jpg
-https://adamdjbrett.com/assets/img/posters/2010-Helen-Prejean-CSJ-Flyer.jpg
-https://adamdjbrett.com/assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
-https://adamdjbrett.com/assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
-https://adamdjbrett.com/assets/img/posters/2011-WOCATI-Johannesburg-Consult.png
-https://adamdjbrett.com/assets/img/posters/2012-new-student-orientation-flyer.png
-https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
-https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
-https://adamdjbrett.com/assets/img/posters/2013-What-the-Foucault-Rev-1.jpg
-https://adamdjbrett.com/assets/img/posters/2013-WOCAIT-Book-cover-image-rev2.jpg
-https://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
-https://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
-https://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
-https://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2-2.jpg
-https://adamdjbrett.com/assets/img/posters/2015-how-jewish-is-jewish-studies.png
-https://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
-https://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
-https://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
-https://adamdjbrett.com/assets/img/posters/2016-BKG_FB2PXD_797x295_castle.png
-https://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
-https://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
-https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
+https://adamdjbrett.com/assets/img/posters/2017-why-study-religion-open-house.jpg
 https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-02.jpg
+https://adamdjbrett.com/assets/img/posters/2017-the-place-of-religion--portrait-flyer-digital-01.jpg
+https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
+https://adamdjbrett.com/assets/img/posters/2017-Syracuse-AAR-SBL-invitation-min.png
+https://adamdjbrett.com/assets/img/posters/2017-Norma-Slepecky-Memorial-Lecture-rev3.gif
+https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-tix.png
 https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-scrimmage-update.png
-https://adamdjbrett.com/assets/img/posters/2017-carrier-dome-update-fb.png
-https://adamdjbrett.com/assets/img/posters/2017-syracuse-why-study-religion.png
-https://adamdjbrett.com/assets/img/posters/2017-why-study-religion-open-house.jpg
-https://adamdjbrett.com/assets/img/posters/2017-Syracuse-AAR-SBL-invitation-min.png
+https://adamdjbrett.com/assets/img/posters/2017-careers-in-industry-for-STEM-Graduate-Students.gif
+https://adamdjbrett.com/assets/img/posters/2016-unexpected4-1296x1944-300dpiHQ.jpg
+https://adamdjbrett.com/assets/img/posters/2016-encountering-the-unexpected.jpg
+https://adamdjbrett.com/assets/img/posters/2016-Encountering-the-unexpected-with-logos-updated2.jpg
+https://adamdjbrett.com/assets/img/posters/2016-BKG_FB2PXD_797x295_castle.png
+https://adamdjbrett.com/assets/img/posters/2015-religion-interruptus-logo-lips-2-2.jpg
+https://adamdjbrett.com/assets/img/posters/2015-how-jewish-is-jewish-studies.png
+https://adamdjbrett.com/assets/img/posters/2015-Bodies-of-God-Benjamin-D-Sommer-med.jpg
+https://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
+https://adamdjbrett.com/assets/img/posters/2014-EIR-program-2014-sm.jpg
+https://adamdjbrett.com/assets/img/posters/2013-WOCAIT-Book-cover-image-rev2.jpg
+https://adamdjbrett.com/assets/img/posters/2013-What-the-Foucault-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Seminar-Flyer.jpg
+https://adamdjbrett.com/assets/img/posters/2013-Catherine-Keller-Flyer-Evening-Talk-Final.jpg
+https://adamdjbrett.com/assets/img/posters/2012-new-student-orientation-flyer.png
+https://adamdjbrett.com/assets/img/posters/2011-WOCATI-Johannesburg-Consult.png
+https://adamdjbrett.com/assets/img/posters/2011-Sprinkle-CoH-March-27-2011.jpg
+https://adamdjbrett.com/assets/img/posters/2011-Brite-Sprinkle-New-Book.jpg
+https://adamdjbrett.com/assets/img/posters/2010-Helen-Prejean-CSJ-Flyer.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Struggling-for-Justice-Between-Betwixt-march-11-2009.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Harry-Knox.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Dr-Lester-Ruiz-ATS-Guest-lecture-Rev-1.jpg
+https://adamdjbrett.com/assets/img/posters/2009-Diversity-and-Social-Justice-Lecture-by-Dr-Lester-Ruiz-of-ATS-Jan-20-Rev-1.jpg
 {% endcapture %}
 {% include gallery images=images caption="Posters I have made for lectures, conferences, and courses" cols=3 %}
 
