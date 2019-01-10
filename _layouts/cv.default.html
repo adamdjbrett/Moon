@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include head.html %}
+  {% include cv.head.html %}
 
   <body class="mdl-base">
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
@@ -12,12 +12,12 @@
 
       <main class="mdl-layout__content">
           <div class="content">
-              {% include page_header.html %}
+              {% include cv.page_header.html %}
               {{ content }}
           </div>
 
           {% unless page.no_header %}
-          {% include footer.html %}
+          {% include cv.footer.html %}
           {% endunless %}
 
       </main>
