@@ -209,28 +209,28 @@ data:
 
   training:
       title: Specialized Training
-      items: |
+      text: |
         - 2011: Syracuse University, Future Professoriate Program
         - 2011: Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
         - 2010: Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
 
   languages:
     title: Languages (Reading Knowledge)
-    items: |
+    text: |
       - French
       - German
       - Koine Greek
 
   associations:
       title: Professional Associations
-      items: |
+      text: |
         - AAR (American Academy of Religion)
         - SBL (Society of Biblical Literature)
         - NABPR (National Association of Baptist Professors of Religion)
 
   technical:
       title: Technical skills
-      items: |
+      text: |
         - Responsive Web Design
         - HTML5/CSS/JS
         - Schema.org
