@@ -2,27 +2,26 @@
 tab_title: CV | Adam DJ Brett | Ph.D. Canddiate | Religion | Syracuse University
 canonical_url: /resume
 ---
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include head.html %}
+  {% include cv-head.html %}
 
   <body class="mdl-base">
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+          {% include cv-header.html %}
 
-      {% unless page.no_header %}
-          {% include header.html %}
-      {% endunless %}
 
       <main class="mdl-layout__content">
           <div class="content">
-              {% include page_header.html %}
+              {% include cv-page_header.html %}
               {{ content }}
           </div>
 
-          {% unless page.no_header %}
-          {% include footer.html %}
-          {% endunless %}
+
+          {% include cv-footer.html %}
+
 
       </main>
 
