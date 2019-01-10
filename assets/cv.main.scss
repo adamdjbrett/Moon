@@ -1,0 +1,88 @@
+.site-header {
+  text-shadow: 0 -1px 0 black;
+  .navbar {
+    position: relative;
+  }
+  .site-title {
+    padding-top: 0.25rem;
+    padding-bottom: 0.32rem;
+    font-size: 1.25rem;
+    a {
+      -webkit-transition: color 0.4s ease;
+      -moz-transition: color 0.4s ease;
+      -transition: color 0.4s ease;
+      color: rgba(255, 255, 255, 0.7);
+      &:hover {
+        text-decoration: none;
+        color: white;
+      }
+    }
+  }
+  .navbar-toggler {
+    z-index: 10;
+  }
+  #navbar-sitenav {
+    margin-left: 1em;
+    &:hover .nav-link {
+      color: rgba(255, 255, 255, 0.3);
+    }
+  }
+  .nav-item .nav-link {
+    position: relative;
+    line-height: 1.2;
+    top: 0.02em;
+    color: rgba(255, 255, 255, 0.6);
+    -webkit-transition: color 0.4s ease, top 0.4s ease;
+    -moz-transition: color 0.4s ease, top 0.4s ease;
+    -transition: color 0.4s ease, top 0.4s ease;
+    small {
+      position: absolute;
+      font-variant: small-caps;
+      width: 20em;
+      -webkit-transition: opacity 0.4s ease;
+      -moz-transition: opacity 0.4s ease;
+      -transition: opacity 0.4s ease;
+      opacity: 0;
+    }
+    &:hover {
+      color: rgba(255, 255, 255, 0.85) !important;
+      z-index: 1;
+      top: -0.5em !important;
+      small {
+        opacity: 1;
+      }
+    }
+  }
+}
+
+.page-header {
+  margin-bottom: 2em;
+  .text-muted {
+    font-size: 1.6rem;
+    font-weight: 300;
+  }
+}
+
+h2 {
+  color: #002b36;
+}
+
+.site-header {
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+}
+
+body > .site-header + .container {
+  padding: 6em 15px 3em;
+}
+
+.collapse.in {
+  display: block;
+}
+
+.jumbotron p {
+  text-indent: 3em;
+}
