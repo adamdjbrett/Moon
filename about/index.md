@@ -2,18 +2,17 @@
 layout: page
 title: About
 tags: [about]
-date: 2016-10-06
+date: 2018-01-10
 comments: false
 ---
-    
+
 <center><a href="http://adamdjbrett.com"><b>Adam DJ Brett</b></a> is a PhD student in religion</center>
-Adam DJ Brett is a doctoral student in the Department of Religion at Syracuse University’s College of Arts and Sciences. 
-He is a recent graduate from Brite Dvinity School at Texas Christian University. 
-Currently he is the social media coordinator for [NABPR: National Association of Baptist Professors of Religion](http://nabpr.org/) and the webmaster for the [Department of Religion at Syracuse University](http://religion.syr.edu/). 
+Adam DJ Brett is a doctoral student in the Department of Religion at Syracuse University’s College of Arts and Sciences.
+He is a recent graduate from Brite Dvinity School at Texas Christian University.
+Currently he is the social media coordinator for [NABPR: National Association of Baptist Professors of Religion](http://nabpr.org/) and the webmaster for the [Department of Religion at Syracuse University](http://religion.syr.edu/).
 
 ## CV: Curriculum Vitae
-* [cv.adamdjbrett.com](http://cv.adamdjbrett.com/)
-* [syr.academia.edu/AdamBrett](https://syr.academia.edu/AdamBrett/)
+* [adamdjbrett.com/cv](https://adamdjbrett.com/cv)
 
 ## Areas of interest
 * American Religion/American Religious History
@@ -33,5 +32,3 @@ Currently he is the social media coordinator for [NABPR: National Association of
 http://adamdjbrett.com/assets/img/posters/2014-REL320-religion-scifi-preview.jpg
 {% endcapture %}
 {% include gallery images=images caption="Religion and Science-Fiction" cols=3 %}
-
-
