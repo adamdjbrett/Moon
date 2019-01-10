@@ -224,9 +224,9 @@ data:
   associations:
       title: Professional Associations
       text: |
-        - AAR (American Academy of Religion)
-        - SBL (Society of Biblical Literature)
-        - NABPR (National Association of Baptist Professors of Religion)
+        - [AAR (American Academy of Religion)](https://www.aarweb.org/)
+        - [SBL (Society of Biblical Literature)](https://www.sbl-site.org/)
+        - [NABPR (National Association of Baptist Professors of Religion)](https://nabpr.org/)
 
   technical:
       title: Technical skills
