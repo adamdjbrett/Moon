@@ -25,11 +25,6 @@ data:
   education:
     title: Education
     items:
-      - 2016–present: |
-          Department of Computer Science, ETH Zurich, Switzerland: graduation with with MSc. expected in 2019
-          Thesis topic: Implementing the SCION next-generation Internet protocol with Software-Defined Networking: hardware-software co-design, work across the whole network stack
-      - 2013–2016: |
-          Department of Computer Science, Faculty of Mathematics, Physics and Informatics, Comenius University in Bratislava, Slovakia: BSc.
       - 2011–present: |
           Ph.D. Candidate, __Syracuse University__, Department of Religion.
       - 2014: |
