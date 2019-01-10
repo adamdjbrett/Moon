@@ -217,10 +217,9 @@ data:
   languages:
     title: Languages
     text: |
-    Reading Knowledge of
-      - French
-      - German
-      - Koine Greek
+      - French (Reading Knowledge)
+      - German (Reading Knowledge)
+      - Koine Greek (Reading Knowledge)
 
   associations:
       title: Professional Associations
