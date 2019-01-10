@@ -5,23 +5,23 @@ canonical_url: /resume
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include cv-head.html %}
+  {% include head.html %}
 
   <body class="mdl-base">
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
 
       {% unless page.no_header %}
-          {% include cv-header.html %}
+          {% include header.html %}
       {% endunless %}
 
       <main class="mdl-layout__content">
           <div class="content">
-              {% include cv-page_header.html %}
-              {% include cv.html %}
+              {% include page_header.html %}
+              {{ content }}
           </div>
 
           {% unless page.no_header %}
-          {% include cv-footer.html %}
+          {% include footer.html %}
           {% endunless %}
 
       </main>
