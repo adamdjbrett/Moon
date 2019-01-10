@@ -17,7 +17,7 @@ sections:
   - presentations
   - awards
   - training
-  - langauges
+  - languages
   - associations
   - technical
 
@@ -64,8 +64,8 @@ data:
         - __Problem__: Imagining Messianism in American Religion & Visual Culture.
 
   teaching:
-    title: Teaching Experience
-    items: |
+   title: Teaching Experience
+   items: |
     - Syracuse University, Instructor: |
       - 2015-Fall
         - Introduction to the Study of Religion (Religion 120)
@@ -101,8 +101,8 @@ data:
       - Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013. I lectured on “Aimee Semple McPherson and the Development of Radio.”
 
 experience:
-  title: Other Academic and Professional Positions
-  text: |
+ title: Other Academic and Professional Positions
+ text: |
   - 2018-present: |
     - Lorem Ipsum
   - 2016-present: |
@@ -125,8 +125,8 @@ experience:
   - 2004-06: |
     - Web Administrator, Warner University, 2004-2006
 
-activities:
-  title: Selected Academic and Professional Activities
+ activities:
+   title: Selected Academic and Professional Activities
   text: |
   - 2016: |
     - Co-Organizer, website/social media coordinator, and panel chair, Encountering the Unexpected: Glitches, (Dis)placements, & Marginalia, Syracuse University Religion Graduate Student Conference, March 25-26, 2016.
@@ -227,7 +227,7 @@ training:
     - 2011: Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
     - 2010: Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
 
-langauges:
+languages:
   title: Languages (Reading Knowledge)
   items: |
     - French
