@@ -9,7 +9,7 @@ twitter_username: adamdjbrett
 defaults:
   - scope: {path: ""}
     values:
-      layout: cv.default
+      layout: cv
 
 # === Build settings ===
 excerpt_separator: <!--more-->
