@@ -1,3 +1,6 @@
 [submodule "_includes/yamlCV"]
 	path = _includes/yamlCV
 	url = https://github.com/AnotherKamila/yamlCV.git
+[submodule "_includes/--force"]
+	path = _includes/--force
+	url = https://github.com/AnotherKamila/yamlCV.git
