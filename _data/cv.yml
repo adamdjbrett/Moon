@@ -66,7 +66,7 @@ data:
 
   teaching:
    title: Teaching Experience
-   items: |
+   text: |
     - Syracuse University, Instructor: |
       - 2015-Fall: Introduction to the Study of Religion (Religion 120)
       - 2015-Spring: Introduction to the Study of Religion (Religion 120)
