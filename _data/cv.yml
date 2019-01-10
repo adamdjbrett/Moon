@@ -67,11 +67,11 @@ data:
   teaching:
    title: Teaching Experience
    text: |
-    - Syracuse University, Instructor: |
+    - Syracuse University, Instructor
       - 2015-Fall: Introduction to the Study of Religion (Religion 120)
       - 2015-Spring: Introduction to the Study of Religion (Religion 120)
       - 2014-Fall: Religion in Science Fiction (Religion 320)
-    - Syracuse University, Teaching Assistant: |
+    - Syracuse University, Teaching Assistant
       - 2018-Fall: Indigenous Religions (Religion 244, Antropology 273; Native American Studies 244)
       - 2016-Spring: Lincoln, Religion and the Civil War (Religion 300)
       - 2015-Fall: Native American Religion (Native American Studies/Religion 142)
@@ -83,7 +83,7 @@ data:
       - 2012-Fall: Native American Religions (Native American Studies/Religion 142)
       - 2012-Spring: Introduction to the Bible (Jewish Studies/Religion 114)
       - 2011-Fall: Introduction to the Study of Religion (Religion 120)
-    - Tutorials: |
+    - Tutorials
       - Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015. I lectured on “Aimee Semple McPherson and the Development of Radio.”
       - Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013. I lectured on “Aimee Semple McPherson and the Development of Radio.”
 
