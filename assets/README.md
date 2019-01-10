@@ -1,6 +1,7 @@
 # Tracking assets
 - yamlCV
-  - main.scss
+  - cv.main.css
+  - cv.main.scss
   - mdl
 
 - Moon

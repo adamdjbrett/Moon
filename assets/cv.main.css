@@ -1,0 +1,9 @@
+.content { width: 96%; max-width: 60em; margin: 3em auto; }
+
+.content { font-size: 17px; line-height: 1.6em; }
+
+.site-title a { color: #fff; text-decoration: none; }
+
+.site-title a:hover { color: #859900; }
+
+.site-header .mdl-layout__header-row { padding-left: 64px; }
