@@ -4,15 +4,3 @@ email: adam@adamdjbrett.com
 permalink: pretty
 github_username:  adamdjbrett
 twitter_username: adamdjbrett
-
-# === defaults ===
-defaults:
-  - scope: {path: ""}
-    values:
-      layout: cv
-
-# === Build settings ===
-excerpt_separator: <!--more-->
-exclude: [Gemfile, Gemfile.lock]
-plugins:
-  - jekyll-sitemap
