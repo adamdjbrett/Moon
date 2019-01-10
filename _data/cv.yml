@@ -143,31 +143,31 @@ data:
   service:
     title: Service to the Profession
     text: |
-    - American Academy of Religion: |
-      - 2013-15
-        - Graduate Student Committee, American Academy of Religion, May 2013-May 2015
-        - Graduate Student Director, Eastern International Region, May 2013-May 2015
-    - Syracuse University: |
-      - 2015-16
-        - Graduate Student Admissions Committee Representative.
-      - 2013–present
-        - Syracuse University, Department of Religion Listserv Manager.
-      - 2012-13
-        - University Senate, Senator at Large.
-        - Graduate Student Organization, Senator at Large.
-        - Religion Graduate Student Organization, Co-president.
-    - Brite Divinity School at Texas Christian University: |
-      - 2008-11
-        - Member, Theology Theory Group
-        - Treasurer, Advanced Program Student Association
-      - 2010-11
-        - Vice Moderator, Brite Student Association
-      - 2008-2010:
-        - General Secretary, Brite Student Association — 2008-2010
-    - Warner University: |
-      - 2003-06: Resident Assistant
-      - 2003-06: Member, Student Congress, Student Government Association
-      - 2003-06: President Pro Tempore, Student Government Association
+      - American Academy of Religion: |
+        - 2013-15
+          - Graduate Student Committee, American Academy of Religion, May 2013-May 2015
+          - Graduate Student Director, Eastern International Region, May 2013-May 2015
+      - Syracuse University: |
+        - 2015-16
+          - Graduate Student Admissions Committee Representative.
+        - 2013–present
+          - Syracuse University, Department of Religion Listserv Manager.
+        - 2012-13
+          - University Senate, Senator at Large.
+          - Graduate Student Organization, Senator at Large.
+          - Religion Graduate Student Organization, Co-president.
+      - Brite Divinity School at Texas Christian University: |
+        - 2008-11
+          - Member, Theology Theory Group
+          - Treasurer, Advanced Program Student Association
+        - 2010-11
+          - Vice Moderator, Brite Student Association
+        - 2008-2010:
+          - General Secretary, Brite Student Association — 2008-2010
+      - Warner University: |
+        - 2003-06: Resident Assistant
+        - 2003-06: Member, Student Congress, Student Government Association
+        - 2003-06: President Pro Tempore, Student Government Association
 
   presentations:
     title: Academic Presentations
@@ -225,13 +225,13 @@ data:
   training:
       title: Specialized Training
       items: |
-      - 2011: Syracuse University, Future Professoriate Program
-      - 2011: Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
-      - 2010: Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
+        - 2011: Syracuse University, Future Professoriate Program
+        - 2011: Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
+        - 2010: Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010.
 
   languages:
     title: Languages (Reading Knowledge)
-      items: |
+    items: |
       - French
       - German
       - Koine Greek
@@ -239,18 +239,18 @@ data:
   associations:
       title: Professional Associations
       items: |
-      - AAR (American Academy of Religion)
-      - SBL (Society of Biblical Literature)
-      - NABPR (National Association of Baptist Professors of Religion)
+        - AAR (American Academy of Religion)
+        - SBL (Society of Biblical Literature)
+        - NABPR (National Association of Baptist Professors of Religion)
 
   technical:
       title: Technical skills
       items: |
-      - Responsive Web Design
-      - HTML5/CSS/JS
-      - Schema.org
-      - WordPress
-      - Linux (Ubuntu)
-      - Google Search Console
-      - Google Analytics
-      - Social Media and Web Strategy
+        - Responsive Web Design
+        - HTML5/CSS/JS
+        - Schema.org
+        - WordPress
+        - Linux (Ubuntu)
+        - Google Search Console
+        - Google Analytics
+        -  Social Media and Web Strategy
