@@ -23,13 +23,13 @@ canonical_url: /resume
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/img/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/img/favicons/favicon-16x16.png">
   <link rel="manifest" href="{{ site.url }}/assets/img/favicon//manifest.json">
-  <!-- Style zzzyzx-->
+  <!-- Style zzz Font Awesome update-->
   <!-- See https://gist.github.com/AnotherKamila/365f98406eea74a3c523bfde08c6db48 for custom MDL -->
     <link rel="stylesheet" href="/assets/mdl/material.min.css" />
     <script defer src="/assets/mdl/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700&subset=latin-ext" type="text/css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/cv.css">
 </head>
 
@@ -39,11 +39,104 @@ canonical_url: /resume
   <![endif]-->
 
   <!-- Add your site or application content here -->
+  <body class="mdl-base">
+   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+         <header class="mdl-layout__header site-header">
+   <div class="mdl-layout__header-row">
+       <span class="mdl-layout__title">
+           <span class="site-title">
+               <a href="https://adamdjbrett.com">adamdjbrett.com</a><a href="/resume/">/resume</a>
+           </span>
+       </span>
+       <div class="mdl-layout-spacer"></div>
+       <nav class="mdl-navigation mdl-layout--large-screen-only">
+
+
+<a class="mdl-navigation__link" href="https://adamdjbrett.com">
+   /home
+</a>
+
+
+<a class="mdl-navigation__link" href="/about/">
+   /about
+</a>
+
+
+<a class="mdl-navigation__link" href="/projects/">
+   /projects
+</a>
+
+
+<a class="mdl-navigation__link" href="/resume/">
+   /resume
+</a>
+
+       </nav>
+   </div>
+</header>
+<div class="mdl-layout__drawer mdl-layout--small-screen-only">
+   <span class="mdl-layout__title">
+       <a href="">kamila.is</a>
+   </span>
+   <nav class="mdl-navigation">
+
+
+     <a class="mdl-navigation__link" href="https://adamdjbrett.com">
+        /home
+     </a>
+
+
+     <a class="mdl-navigation__link" href="/about/">
+        /about
+     </a>
+
+
+     <a class="mdl-navigation__link" href="/projects/">
+        /projects
+     </a>
+
+
+     <a class="mdl-navigation__link" href="/resume/">
+        /resume
+</a>
+
+   </nav>
+</div>
+<!-- content -->
+     <main class="mdl-layout__content">
+         <div class="content">
+
   {% include cv.html %}
-  <script src="js/vendor/modernizr-3.6.0.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
-</body>
+<!-- footer -->
+</div>
+
+
+         <footer class="mdl-mini-footer">
+ <div class="mdl-mini-footer__left-section">
+   <div class="mdl-logo">adamdjbrett.com</div>
+   <ul class="mdl-mini-footer__link-list">
+
+       <li>
+           <a href="https://github.com/anotherkamila">
+               <i class="fa fa-github"></i> adamdjbrett
+           </a>
+       </li>
+
+
+
+       <li>
+           <a href="https://twitter.com/anotherkamila">
+               <i class="fa fa-twitter"></i> adjbx
+           </a>
+       </li>
+
+   </ul>
+ </div>
+</footer>
+
+
+     </main>
+<!-- script -->
+   </div>
+ </body>
 </html>
