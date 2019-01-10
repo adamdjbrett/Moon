@@ -22,7 +22,9 @@ sections:
   - technical
 
 data:
+
   education:
+    title: Education
     items:
       - 2011–present: |
           Ph.D. Candidate, __Syracuse University__, Department of Religion.
@@ -124,7 +126,7 @@ data:
         - 2004-06: |
         - Web Administrator, Warner University, 2004-2006
 
-   activities:
+  activities:
     title: Selected Academic and Professional Activities
     text: |
       - 2016: |
