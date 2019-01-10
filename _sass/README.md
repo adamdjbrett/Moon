@@ -1,9 +1,7 @@
 # Tracking SASS/SCSS files
 - yamlCV
   - \_custom.sass
-  - content.sass
-  - site_nav.sass
-
+  
 - TaylanTatli/Moon Theme
   - elements.scss
   - mixins.scss
