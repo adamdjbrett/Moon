@@ -1,0 +1,19 @@
+# === the basics ===
+title: adamdjbrett.com
+email: adam@adamdjbrett.com
+permalink: pretty
+repository: adamdjbrett/adamdjbrett.github.io
+github_username:  adamdjbrett
+twitter_username: adamdjbrett
+
+# === defaults ===
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: default
+
+# === Build settings ===
+excerpt_separator: <!--more-->
+exclude: [Gemfile, Gemfile.lock]
+plugins:
+  - jekyll-sitemap
