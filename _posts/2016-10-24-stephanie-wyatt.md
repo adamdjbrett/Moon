@@ -18,8 +18,8 @@ comments: false
 I helped Stephanie develop a wordpress website that highlights her work as a teacher-scholar, minister, and community builder.
 
 {% capture images %}
-	http://adamdjbrett.com/assets/img/Stephanie_M_Wyatt_-_Ph.D._Candidate.jpg
-	http://adamdjbrett.com/assets/img/stephaniewyatt.net-2016.jpg
+	https://adamdjbrett.com/assets/img/Stephanie_M_Wyatt_-_Ph.D._Candidate.jpg
+	https://adamdjbrett.com/assets/img/stephaniewyatt.net-2016.jpg
 {% endcapture %}
 {% include gallery images=images caption="The 2010 and 2016 versions of Stephanie Wyatt.net" cols=3 %}
 
@@ -38,6 +38,3 @@ I helped Stephanie develop a wordpress website that highlights her work as a tea
 * integrated social media
 * google analytics
 * google search console
- 
-
-
