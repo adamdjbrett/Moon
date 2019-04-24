@@ -8,7 +8,7 @@ comments: false
 
 <center><a href="http://adamdjbrett.com"><b>Adam DJ Brett</b></a> is a PhD student in religion</center>
 Adam DJ Brett is a doctoral student in the Department of Religion at Syracuse University’s College of Arts and Sciences.
-He is a recent graduate from Brite Dvinity School at Texas Christian University.
+He is a recent graduate from Brite Divinity School at Texas Christian University.
 Currently he is the social media coordinator for [NABPR: National Association of Baptist Professors of Religion](http://nabpr.org/) and the webmaster for the [Department of Religion at Syracuse University](http://religion.syr.edu/).
 
 ## CV: Curriculum Vitae
