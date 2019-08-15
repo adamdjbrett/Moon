@@ -1,3 +1,6 @@
+# Changing themes.
+This repo has been archived and I will be deleting it soon. THnak you to @taylantali for creating such an awesome theme but it was time to update. 
+
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
